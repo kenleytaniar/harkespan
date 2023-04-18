@@ -1,6 +1,6 @@
 package transportasi;
 
-
+import transportasi.mobil;
 
 public class mobilaksi {
 

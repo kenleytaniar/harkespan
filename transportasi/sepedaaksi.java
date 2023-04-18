@@ -1,6 +1,6 @@
 package transportasi;
 
-
+import transportasi.sepeda;
 
 public class sepedaaksi {
 
